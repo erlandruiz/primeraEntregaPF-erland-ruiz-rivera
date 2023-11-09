@@ -1,0 +1,59 @@
+[
+     {
+          "id": 1,
+          "title": "Titulo1",
+          "description": "zapato",
+          "price": 100,
+          "thumbnail": [
+               "www.imagen.com/image1",
+               "www.imagen.com/image2"
+          ],
+          "code": "A33313",
+          "stock": 100,
+          "category": "ropa",
+          "status": true,
+          "tite": "Nuevotiutlo"
+     },
+     {
+          "id": 2,
+          "title": "productomodificado2",
+          "description": "cartera",
+          "price": 100,
+          "thumbnail": [
+               "www.imagen.com/image1",
+               "www.imagen.com/image2"
+          ],
+          "code": "ABC002",
+          "stock": 10,
+          "category": "ropa",
+          "status": true
+     },
+     {
+          "id": 3,
+          "title": "producto3",
+          "description": "pantalon",
+          "price": 100,
+          "thumbnail": [
+               "www.imagen.com/image1",
+               "www.imagen.com/image2"
+          ],
+          "code": "ABC003",
+          "stock": 10,
+          "category": "ropa",
+          "status": true
+     },
+     {
+          "id": 4,
+          "title": "procuto4",
+          "description": "cartera",
+          "price": 100,
+          "thumbnail": [
+               "www.imagen.com/image1",
+               "www.imagen.com/image2"
+          ],
+          "code": "ABC004",
+          "stock": 10,
+          "category": "ropa",
+          "status": true
+     }
+]
